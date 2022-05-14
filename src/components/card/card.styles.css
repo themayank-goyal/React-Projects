@@ -1,0 +1,15 @@
+.card-container {
+  display: flex;
+  padding: 20px;
+  margin: 12px;
+  background-color: #95dada;
+  flex-direction: column;
+  gap: 12px;
+  border-radius: 11px;
+  line-height: 1.7;
+  transition: all 0.3s;
+}
+
+.card-container:hover{
+  transform: scale(1.05);
+}

@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
+import React from 'react'; // engine that tells how these application get built
+import ReactDOM from 'react-dom/client'; // engine should be directed towards web related application
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
